@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tkell\\OneDrive\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj": {}
+    "C:\\Users\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tkell\\OneDrive\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj": {
+    "C:\\Users\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tkell\\OneDrive\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj",
+        "projectUniqueName": "C:\\Users\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj",
         "projectName": "recipe_in_home",
-        "projectPath": "C:\\Users\\tkell\\OneDrive\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj",
-        "packagesPath": "C:\\Users\\tkell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tkell\\OneDrive\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\obj\\",
+        "projectPath": "C:\\Users\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\recipe_in_home.csproj",
+        "packagesPath": "C:\\Users\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\바탕 화면\\project\\recipe_in_home\\recipe_in_home\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tkell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
